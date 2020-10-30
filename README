@@ -1,0 +1,27 @@
+Computing Environment
+    2018 MacBook Pro
+    Anaconda, Python 3.7.4 64-bit
+
+External Packages
+    spacy
+    nltk
+    sklearn
+    numpy
+    
+Before the first run, you will have to download spaCy's pre-trained model:
+    `python -m spacy download en_core_web_md`
+
+To run tests, simply run:
+    `python run_tests.py`
+
+Webpages referenced:
+    https://spacy.io/usage
+    https://scikit-learn.org/stable/modules/classes.html#module-sklearn.base
+    https://www.nltk.org/py-modindex.html 
+    https://medium.com/explorations-in-language-and-learning/understanding-word-vectors-f5f9e9fdef98
+
+People discussed with:
+    None
+
+Unresolved problems:
+    None
